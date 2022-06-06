@@ -17,6 +17,7 @@
 - Μάθημα 8: [Εφαρμογή Σκύλος Φύλακας](https://okiriostonipologiston.blogspot.com/2019/01/blog-post_17.html)
 - Μάθημα 9: [Εφαρμογή Μαγνητισμός](https://okiriostonipologiston.blogspot.com/2019/02/blog-post_21.html)
 - Μάθημα 10: [Εφαρμογή Ζωγραφική με τα δάχτυλα](https://okiriostonipologiston.blogspot.com/2019/02/blog-post_98.html)
-- Μάθημα 11: [Εφαρμογή Hallo World]
-- Μάθημα 12: [Εφαρμογή Hallo World]
-- 
+- Μάθημα 11: [Εφαρμογή Πιάσε τη Σημαία](https://okiriostonipologiston.blogspot.com/2019/03/blog-post_82.html)
+- Μάθημα 12: [Εφαρμογή Κουραμπιεδο-μελονομακαρονο μετρητής](https://okiriostonipologiston.blogspot.com/2021/11/11-appinventor.html)
+- Μάθημα 13: [Εφαρμογή Panic Button](https://okiriostonipologiston.blogspot.com/2019/01/panic-button.html)
+- Μάθημα 14: [Ομαδική Εργασία](https://okiriostonipologiston.blogspot.com/2019/01/panic-button.html)
